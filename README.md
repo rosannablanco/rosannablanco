@@ -1,7 +1,7 @@
 
 # Rosanna Blanco Prado 
 
-## :woman_technologist: Front-end Developer 
+## :woman_technologist: Front-end Developer Junior
 Mi objetivo es dedicarme profesionalmente y evolucionar como Desarrolladora Front-end, de modo que busco oportunidades que me permitan hacerlo.
 
 ### :desktop_computer: Conocimientos 
