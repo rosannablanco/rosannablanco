@@ -2,7 +2,7 @@
 # Rosanna Blanco Prado 
 
 ## :woman_technologist: Front-end Developer 
-Hola, mi profesión de origen es el diseño gráfico y tras años de experiencia, tomé la decisión de reorientar mi futuro profesional con el ánimo de continuar aprendiendo, en el 2018 programo mi GPS y cambio de ruta haciendo paradas en las principales tecnologías del Front.
+Mi objetivo es dedicarme profesionalmente y evolucionar como Desarrolladora Front-end, de modo que busco oportunidades que me permitan hacerlo.
 
 ### :desktop_computer: Conocimientos 
 
