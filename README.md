@@ -8,8 +8,7 @@ Mi objetivo es dedicarme profesionalmente y evolucionar como Desarrolladora Fron
 
 #### Tecnologías 
 - Lenguaje de marca: **Html5**
-- Lenguaje de hojas de estilos: **Css3**
-- Preprocesador css: **Sass**
+- Lenguaje de hojas de estilos: **Css3**, **Sass**
 - Framework css: **Bootstrap**
 - Lenguaje de programación: **JavaScript (ES6)**
 - Librería/Framework: **React.js**
